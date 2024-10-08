@@ -1,0 +1,156 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1f64eb72791042d68ea030c4d08030e, type: 3}
+  m_Name: QuestionsData
+  m_EditorClassIdentifier: 
+  QuestionItems:
+  - Title: 'One of the features of the cloud is: '
+    OptionA: On-demand self-service
+    OptionB: Ubiquitous network acces
+    OptionC: Resource pooling
+    OptionD: ' Fast elastic expansion'
+    Right: 1
+  - Title: 'For public edge nodes, which of the following is true: '
+    OptionA: Small-sized data centres, self-owned equipment rooms.
+    OptionB: Large data centre, public cloud room.
+    OptionC: Large data centre, private cloud room.
+    OptionD: Large data, the city and below the own computer room.
+    Right: 0
+  - Title: 'For the public edges, can the edge connection network element AND edge cloud can be placed in the same equipment room'
+    OptionA: No, no
+    OptionB: No, yes
+    OptionC: Yes, yes
+    OptionD: Yes, no
+    Right: 2
+  - Title: "Which of the following includes customized servers \xB7 New data centres:"
+    OptionA: IT Infrastructure
+    OptionB: Resource Pool Capability
+    OptionC: Big data capability
+    OptionD: Big data analysis services
+    Right: 0
+  - Title: 'Which of the following options allows an enterprise to build its own
+      private cloud and use public cloud resources at the same time:'
+    OptionA: Public clouds
+    OptionB: Private clouds
+    OptionC: A hybrid cloud
+    OptionD: Private cloud
+    Right: 3
+  - Title: 'Intelligent terminal is the key device for which of the following:'
+    OptionA: station level
+    OptionB: The network layer
+    OptionC: Interval layer
+    OptionD: The process layer
+    Right: 3
+  - Title: "Which of the following is false about the narrow definition of AI"
+    OptionA: "Narrow AI addresses very focused tasks based on common knowledge."
+    OptionB: Narrow AI is scaling very quickly in the consumer world.
+    OptionC: Narrow AI can transfer its knowledge to different sorts of problems.
+    OptionD: Narrow AI is often used to solve specific, well-defined tasks.
+    Right: 3
+  - Title: 'Intelligent information processing refers to:'
+    OptionA: Using AI information technology to process information
+    OptionB: Processing data with Excel spreadsheets
+    OptionC: Flash animation
+    OptionD: The computer game
+    Right: 0
+  - Title: "What cannot natural language processing(NLP) be applied to\uFF1A"
+    OptionA: Social Media Analysis
+    OptionB: Business Intelligence for Enterprise
+    OptionC: Object Recognition
+    OptionD: Content Marketing and Recommendation
+    Right: 2
+  - Title: 'Which of the following does not apply AI:'
+    OptionA: Type the text using a handwritten tablet
+    OptionB: "Video chat\uFF08e.g. FaceTime\uFF09"
+    OptionC: Play chess with a computer
+    OptionD: OCR text recognition
+    Right: 1
+  - Title: Which of the following is not a type of automation?
+    OptionA: Basic Automation
+    OptionB: Engineer Automation
+    OptionC: Integration Automation
+    OptionD: Process Automation
+    Right: 1
+  - Title: "Which of the following is not a potential advantage of automation\uFF1A"
+    OptionA: Decision Processing, Content Management
+    OptionB: Document Processing, Workflow Automation
+    OptionC: Content Management, Decision Management
+    OptionD: Document Management, Process Mapping
+    Right: 0
+  - Title: 'Which of the following describes the Artificial Intelligence Automation:'
+    OptionA: Takes simple, rudimentary tasks and automates them.
+    OptionB: Machines can learn and make decisions based on past situations.
+    OptionC: Machines mimic human tasks.
+    OptionD: Manage business processes for uniformity and transparency.
+    Right: 1
+  - Title: 'Edge linked nets/edge connection network elements can be cloud hosted
+      by what devices:'
+    OptionA: Public clouds
+    OptionB: The network cloud
+    OptionC: Private clouds
+    OptionD: IT clouds
+    Right: 1
+  - Title: IBM Engineering Life cycle Management (ELM) is the most comprehensive
+      solution on the market for system and software development. It covers the key
+      disciplines of the engineering life cycle. So about the ELM, which of the following
+      is not included?
+    OptionA: Tests planning and execution
+    OptionB: Workflow management
+    OptionC: Requirements management
+    OptionD: None of them above
+    Right: 3
+  - Title: Which of the following are not of the key features of IBM Engineering
+      Life cycle Management?
+    OptionA: Supports implementation of industry standards and rules into development.
+    OptionB: Full lifecycle traceability of all requirements.
+    OptionC: Supports reuse of requirements.
+    OptionD: Provides customizable reporting and dashboards
+    Right: 0
+  - Title: Which of the following is true about the description of Scale Agile Framework
+      (SAFe) project templates?
+    OptionA: Promotes continuous improvement through the automation of best practices.
+    OptionB: Provides customizable reporting and dashboards.
+    OptionC: An industry standard framework for helping organizations scale agile.
+    OptionD: Supports full impact assessment and management from requirements
+      through testing.
+    Right: 2
+  - Title: Which of the following is using data methods to study science.
+    OptionA: Business intelligence
+    OptionB: Human Genome Project
+    OptionC: "Kepler\u2019s three laws"
+    OptionD: Digital image processing
+    Right: 1
+  - Title: Which of the following is the feature of data science.
+    OptionA: Value
+    OptionB: Veracity
+    OptionC: Variety
+    OptionD: All of them above
+    Right: 3
+  - Title: Which of the following aspects belong to data science.
+    OptionA: Study the data in a scientific way
+    OptionB: Bio informatics
+    OptionC: Artificial Intelligence
+    OptionD: Statistical
+    Right: 0
+  - Title: Which of the following is not true about data science.
+    OptionA: "Extracting actionable insights from volumes of data collected by orgs."
+    OptionB: Encompasses preparing data for analysis and processing and presenting the results.
+    OptionC: No need to write applications that automate data processing and calculations.
+    OptionD: Massive amounts of data is being produced globally.
+    Right: 2
+  - Title: Which of following is true about the broad characteristics of data.
+    OptionA: "Variety\_- What types of data are you working with and are they (un)structured"
+    OptionB: Veracity - Having a sense of the amount of data which needs to be processed.
+    OptionC: Velocity - Not all data holds equal weight for a given tasks, data analysts
+      need to able to filter out the noisy data to find what they are looking for.
+    OptionD: Value - How quickly is the data being generated.
+    Right: 0

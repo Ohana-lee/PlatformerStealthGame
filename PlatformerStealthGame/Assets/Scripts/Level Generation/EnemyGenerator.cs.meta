@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6ddf0f1c375051049bc09d0621532378
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - robotPrefab: {fileID: 6059873594730256736, guid: 967ee44076449482b83ecfe93982222a, type: 3}
+  - CCTVPrefab: {fileID: 6878833794865355467, guid: 8d32088ada26d4147a454acde6c62a52, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

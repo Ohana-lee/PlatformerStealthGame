@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main-menu.unity
+    guid: 8e43fe688d29c134c9f82cd9c63e2168
+  - enabled: 1
+    path: Assets/Scenes/cutscene.unity
+    guid: f36cbf499032f0249a622e4e4d52cba8
+  - enabled: 1
+    path: Assets/Scenes/level 1.unity
+    guid: 177540e50bc3d844095a205b76c3a837
+  - enabled: 1
+    path: Assets/Scenes/level 2.unity
+    guid: 6b971ab9679659a4db3f2b30d5831b1f
+  - enabled: 1
+    path: Assets/Scenes/level 3.unity
+    guid: 213649fc3fa3c4adab49d10166d93413
+  - enabled: 0
+    path: Assets/Scenes/level 4.unity
+    guid: ec0eedc84c08f294ab89943ded596ade
+  - enabled: 1
+    path: Assets/Scenes/level 6.unity
+    guid: 05e06a021a751407eb943d3600866dba
+  - enabled: 1
+    path: Assets/Scenes/level 7.unity
+    guid: 553792e52d0cc427d8156cafec176c3c
+  - enabled: 1
+    path: Assets/Scenes/level 5.unity
+    guid: fc8376ffb7a0b4de6871c6d1f04bc13e
+  - enabled: 1
+    path: Assets/Scenes/level 8.unity
+    guid: 1721cbeff0fd1834ba4814a8dea44c45
+  - enabled: 1
+    path: Assets/Scenes/Boss Scene.unity
+    guid: f714f559d144241429e0407485a8a4da
+  - enabled: 1
+    path: Assets/Scenes/secret room.unity
+    guid: a3291e541ad6f4b9e9b937a2702d9114
+  - enabled: 1
+    path: Assets/Scenes/bad end.unity
+    guid: 6721c7f582e619049bfdbe735c05708a
+  - enabled: 1
+    path: Assets/Scenes/normal end.unity
+    guid: 0d44159b9f319004a833df02b20821f8
+  - enabled: 1
+    path: Assets/Scenes/true end.unity
+    guid: 34777364de637274694b7cc950b37124
+  - enabled: 1
+    path: Assets/Scenes/credit.unity
+    guid: b9f7bd98ec3464126a65b25bf3c4fb30
+  - enabled: 1
+    path: Assets/Scenes/Game Over.unity
+    guid: 4dd27e597a2e4094b9f8e1f5cb4efefa
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/testing/test 1.unity
+    guid: 884584d9aafcc4f0fb747919c67e783d
+  - enabled: 0
+    path: Assets/Scenes/testing/test 2.unity
+    guid: 961ffe2f2a052154b973ecbfdec94113
+  - enabled: 1
+    path: Assets/Scenes/level-generation.unity
+    guid: bc950580fdbc84e449cb222930f55e3d
+  m_configObjects: {}

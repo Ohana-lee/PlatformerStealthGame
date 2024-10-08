@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1f64eb72791042d68ea030c4d08030e, type: 3}
+  m_Name: QuestionsData
+  m_EditorClassIdentifier: 
+  QuestionItems:
+  - Title: 'One of the features of the cloud is: '
+    OptionA: On-demand self-service
+    OptionB: Ubiquitous network acces
+    OptionC: Resource pooling
+    OptionD: ' Fast elastic expansion'
+    Right: 1
+  - Title: 'For public edge nodes, which of the following is true: '
+    OptionA: Small-sized data centres or self-owned equipment rooms at or below the
+      city level.
+    OptionB: Large data centre, public cloud room.
+    OptionC: Large data centre, private cloud room.
+    OptionD: Large data, the city and below the own computer room.
+    Right: 0
+  - Title: For the public edges, whether the edge connection network element and
+      edge cloud can be placed in the same equipment room
+    OptionA: No, no
+    OptionB: No, yes
+    OptionC: Yes, yes
+    OptionD: Yes, no
+    Right: 2
+  - Title: "Which of the following includes customized servers \xB7 New data centres:"
+    OptionA: IT Infrastructure
+    OptionB: Resource Pool Capability
+    OptionC: Big data capability
+    OptionD: Big data analysis services
+    Right: 0
+  - Title: 'Which of the following options allows an enterprise to build its own
+      private cloud and use public cloud resources at the same time:'
+    OptionA: Public clouds
+    OptionB: Private clouds
+    OptionC: A hybrid cloud
+    OptionD: Private cloud
+    Right: 3
+  - Title: 'Intelligent terminal is the key device for which of the following:'
+    OptionA: station level
+    OptionB: The network layer
+    OptionC: Interval layer
+    OptionD: The process layer
+    Right: 3
+  - Title: "Which of the following is false about the narrow definition of AI\uFF1A"
+    OptionA: "Narrow AI addresses very focused tasks based on \u201Ccommon knowledge\u201D."
+    OptionB: Narrow AI is scaling very quickly in the consumer world where there
+      are a lot of common tasks and data to train these systems.
+    OptionC: Narrow AI can transfer its knowledge to different sorts of problems.
+    OptionD: Narrow AI is often used to solve specific, well-defined tasks.
+    Right: 3
+  - Title: 'Intelligent information processing refers to:'
+    OptionA: Using artificial intelligence information technology to process information
+    OptionB: Processing data with Excel spreadsheets
+    OptionC: Flash animation
+    OptionD: The computer game
+    Right: 0
+  - Title: "What cannot natural language processing(NLP) be applied to\uFF1A"
+    OptionA: Social Media Analysis
+    OptionB: Business Intelligence for Enterprise
+    OptionC: Object Recognition
+    OptionD: Content Marketing and Recommendation
+    Right: 2
+  - Title: 'Which of the following does not apply AI:'
+    OptionA: Type the text using a handwritten tablet
+    OptionB: "Video chat\uFF08e.g. FaceTime\uFF09"
+    OptionC: Play chess with a computer
+    OptionD: OCR text recognition
+    Right: 1
+  - Title: Which of the following is not the type of automation?
+    OptionA: Basic Automation
+    OptionB: Engineer Automation
+    OptionC: Integration Automation
+    OptionD: Process Automation
+    Right: 1
+  - Title: "Which of the following is true\uFF1A"
+    OptionA: Automatic control system according to the system structure classification,
+      there are closed-loop control system and compound control system.
+    OptionB: Automatic control system according to the system structure classification,
+      closed-loop control system and open-loop control system.
+    OptionC: Automatic control system according to the system structure classification,
+      there are open loop control system and compound control system.
+    OptionD: Automatic control systems are classified according to system structure,
+      including closed-loop control, open-loop control, and compound control systems.
+    Right: 3
+  - Title: "Which of the following is not a potential advantage of automation\uFF1A"
+    OptionA: Decision Processing, Content Management
+    OptionB: Document Processing, Workflow Automation
+    OptionC: Content Management, Decision Management
+    OptionD: Document Management, Process Mapping
+    Right: 0
+  - Title: 'Which of the following describes the Artificial Intelligence Automation:'
+    OptionA: Takes simple, rudimentary tasks and automates them.
+    OptionB: Machines can learn and make the decision based on past situation; also
+      they have encountered and analyzed.
+    OptionC: Where machines mimic human tasks and repeat the action once humans define
+      the machine rules.
+    OptionD: Manage business processes for uniformity and transparency.
+    Right: 1
